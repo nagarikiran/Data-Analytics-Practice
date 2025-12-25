@@ -1,4 +1,10 @@
 Hi, I am Kiran.
-I am learning Data Analytics.
-Skills: Excel, SQL, Power BI (Beginner).
-I am preparing for internships and entry-level IT roles.
+Education:
+Diploma in Electronics and Communication Engineering
+Currently Learning:
+- Data Analytics
+- Excel
+- SQL
+- Power BI
+Goal:
+To become a Data Analyst and get an internship/job in IT field.
